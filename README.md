@@ -1,0 +1,6 @@
+# ATM_SIM
+ATM simulator in Java
+
+
+***NOTE***
+VALID PIN NUMBERS ARE 1234, 2234, 3234 and 4234
